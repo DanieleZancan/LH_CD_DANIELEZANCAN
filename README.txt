@@ -1,4 +1,4 @@
-#📘 README – Análise de Filmes
+📘 README – Análise de Filmes
 
 📌 Sobre o projeto:
 
