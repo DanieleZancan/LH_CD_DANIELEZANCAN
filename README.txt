@@ -23,10 +23,10 @@ O objetivo é:
  ┣ 📂 data
  ┃ ┗ desafio_indicium_imdb.csv   # Base de dados
  ┣ 📂 notebooks
- ┃ ┗ analise_filmes.ipynb       # Notebook com a análise e modelo
- ┃ ┗ modelo_imdb.pkl            # Modelo salvo (gerado pelo notebook)
- ┃ README.txt                   # Este arquivo 
- ┗ requiriments.txt             # Tecnologias utilizadas 
+ ┃ ┗ analise_filmes.ipynb        # Notebook com a análise e modelo
+ ┃ ┗ modelo_imdb.pkl             # Modelo salvo (gerado pelo notebook)
+ ┃ README.txt                    # Este arquivo 
+ ┗ requiriments.txt              # Tecnologias utilizadas 
 
 🚀 Como instalar e executar:
 
